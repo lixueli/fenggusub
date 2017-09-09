@@ -6,6 +6,7 @@ updated: 2017-07-08 20:03:19
 tags:
 - 剧情
 - 喜剧
+- 音乐
 cover_index: /img/covers/mozart-in-the-jungle-season1-cover-index.jpg
 cover_detail: /img/covers/mozart-in-the-jungle-cover-detail.jpg
 resources:
